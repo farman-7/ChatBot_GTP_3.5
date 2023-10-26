@@ -27,7 +27,7 @@ https://docs.aiogram.dev/en/latest/
 
 1. Clone this repository or download the zip file
 2. Create a virtual environment and activate it
-        > TO Create :- `conda create telebot python=3.7 -y`
+        > TO Create :- `conda create -n telebot python=3.7 -y`
          To Activate:- `conda activate telebot`
 3. Install the dependencies using `pip install -r requirements.txt`
     > Or alternatively to the above two steps you can run `init_setup.sh` by running the following command in your terminal-
